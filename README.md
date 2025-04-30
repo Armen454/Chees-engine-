@@ -1,4 +1,4 @@
-# chess-engin
+# chess-engine
 import numpy as np
 from typing import List, Tuple, Dict, Optional
 
