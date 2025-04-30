@@ -1,4 +1,4 @@
-# Chees-engine-
+# chess-engin
 import numpy as np
 from typing import List, Tuple, Dict, Optional
 
